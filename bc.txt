@@ -4725,3 +4725,4 @@ RT news(俄罗斯),https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 美国mytime 电影频道,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 美国 Gravitas Movies (STIRR),https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
+FOX News Now (720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
